@@ -27,5 +27,5 @@ python vd-dl.py
 2. Enter video link
 3. Enter download directory (or leave blank to save to the script's directory)
 
-26/08/25
+26/08/25 Willsu00
 
